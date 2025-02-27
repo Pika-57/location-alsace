@@ -79,7 +79,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - ''
+            - test!
             - ''
           isRequired: false
           width: full
