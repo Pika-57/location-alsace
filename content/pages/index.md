@@ -80,7 +80,7 @@ sections:
           defaultValue: Please choose...
           options:
             - test!
-            - ''
+            - test2
           isRequired: false
           width: full
       elementId: contact-form
