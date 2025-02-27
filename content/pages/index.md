@@ -76,7 +76,7 @@ sections:
         - type: SelectFormControl
           name: company-size
           label: Company size
-          hideLabel: true
+          hideLabel: false
           defaultValue: Please choose...
           options: []
           isRequired: false
