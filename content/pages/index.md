@@ -80,6 +80,7 @@ sections:
           defaultValue: Please choose...
           options:
             - ''
+            - ''
           isRequired: false
           width: full
       elementId: contact-form
